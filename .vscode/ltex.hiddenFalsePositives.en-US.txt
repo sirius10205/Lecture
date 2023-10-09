@@ -1,0 +1,9 @@
+{"rule":"ID_CASING","sentence":"^\\QThe representation \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q is called completely reducible id for any invariant subspace \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, there exists an invariant complement \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q: \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MASS_AGREEMENT","sentence":"^\\QIdea Consider the action of \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q on \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q if left cosets by \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q by means of left multiplication \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q it gives a homomorphism.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Consider \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, of maximal order \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q (Set set of such subgroups is not empty:A) Consider \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"TH_THORIUM","sentence":"^\\QTh.1 is true for all solvable groups of order \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and Hall's divisor of their order.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q (\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q ), \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q is cyclic, \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, and \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q acts on \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q by automorphisms of order \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCmpNum.).\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qx1/\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q -> x2 [as=\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, red] -> x34/\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q; x1 -> [bend left] x34; ;\\E$"}
+{"rule":"ARROWS","sentence":"^\\Qx1/\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q -> x2 [as=\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, red] -> x34/\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q; x1 -> [bend left] x34; ;\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qclosed, \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
